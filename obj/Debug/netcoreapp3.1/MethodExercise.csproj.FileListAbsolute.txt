@@ -10,3 +10,15 @@
 /Users/allisoncole/Projects/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.dll
 /Users/allisoncole/Projects/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.pdb
 /Users/allisoncole/Projects/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.genruntimeconfig.cache
+/Users/allisoncole/repos/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.csprojAssemblyReference.cache
+/Users/allisoncole/repos/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.AssemblyInfoInputs.cache
+/Users/allisoncole/repos/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.AssemblyInfo.cs
+/Users/allisoncole/repos/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.csproj.CoreCompileInputs.cache
+/Users/allisoncole/repos/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.dll
+/Users/allisoncole/repos/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.pdb
+/Users/allisoncole/repos/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.deps.json
+/Users/allisoncole/repos/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.runtimeconfig.json
+/Users/allisoncole/repos/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.runtimeconfig.dev.json
+/Users/allisoncole/repos/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.dll
+/Users/allisoncole/repos/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.pdb
+/Users/allisoncole/repos/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.genruntimeconfig.cache
